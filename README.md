@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ## Project Overview
-Performed ETL processes and took in Wikipedia data, Kaggle metadata, and the MovieLens rating data—data to add to a PostgreSQL database.
+Performed ETL processes and took in Wikipedia data, Kaggle metadata, and the MovieLens rating data to add to a PostgreSQL database.
 
 ## Resources
 -Data Source: ratings.csv, movies_metadata.csv, wikipedia_movies.json
